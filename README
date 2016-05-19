@@ -1,0 +1,3 @@
+Before running, Pods.zip will need to be unzipped.
+
+Make sure to open the .xcworkspace file, not the .xcodeproj.
